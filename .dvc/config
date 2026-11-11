@@ -1,0 +1,6 @@
+[core]
+    remote = floci
+['remote "floci"']
+    url = s3://my-telco-bucket
+    endpointurl = http://localhost:4566
+    profile = local
